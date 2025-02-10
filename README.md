@@ -85,4 +85,6 @@ The dataset contains the following columns:
 
 ---
 
-## FOR MORE DETAILED INSIGHTS, PLEASE VISIT THE IPYNB FILE.
+## TO LOOK AT THE CODE, PLEASE VISIT THE IPYNB FILE.
+## TO VIEW ALONG WITH VISUALIZATIONS, VISIT BELOW LINK: 
+https://nbviewer.org/github/hrithickbarani/Amazon-India-Women-s-Clothing-Sales-Report-Apr-May-June-2022-/blob/main/amazonIndia_womens_clothing_sales_report_%28Apr_May_June%29_2022.ipynb
