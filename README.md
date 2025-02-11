@@ -4,6 +4,11 @@
 [![Python Version](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/)  
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+
+### TO LOOK AT THE CODE, PLEASE VISIT THE IPYNB FILE.
+### TO VIEW ALONG WITH VISUALIZATIONS, VISIT BELOW LINK: 
+https://nbviewer.org/github/hrithickbarani/Amazon-India-Women-s-Clothing-Sales-Report-Apr-May-June-2022-/blob/main/amazonIndia_womens_clothing_sales_report_%28Apr_May_June%29_2022.ipynb
+
 ## Description
 
 This project analyzes the sales data of women's clothing on Amazon India for the months of April, May, and June 2022. The dataset includes details such as product category, size, sales date, order status, fulfilment method, style, SKU, ASIN, courier status, quantity, amount, B2B sales, and currency. The analysis provides insights into sales trends, popular product categories, regional performance, cancellation rates, and lost revenue due to cancellations.
@@ -85,6 +90,3 @@ The dataset contains the following columns:
 
 ---
 
-## TO LOOK AT THE CODE, PLEASE VISIT THE IPYNB FILE.
-## TO VIEW ALONG WITH VISUALIZATIONS, VISIT BELOW LINK: 
-https://nbviewer.org/github/hrithickbarani/Amazon-India-Women-s-Clothing-Sales-Report-Apr-May-June-2022-/blob/main/amazonIndia_womens_clothing_sales_report_%28Apr_May_June%29_2022.ipynb
